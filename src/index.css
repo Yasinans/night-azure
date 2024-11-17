@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Century Gothic', CenturyGothic, monospace;
+}
+
+body {
+    background-color: rgb(65, 60, 60);
+}
